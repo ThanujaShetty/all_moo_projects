@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.0 on win32)" generated="20231206 12:32:48.619" rpa="false" schemaversion="4">
+<suite id="s1" name="Login To Amazon" source="C:\Users\user\PycharmProjects\RobotFramework\TestCases\login_to_amazon.robot">
+<test id="s1-t1" line="5">
+<status status="FAIL" starttime="20231206 12:32:48.797" endtime="20231206 12:32:48.797">Test name cannot be empty.</status>
+</test>
+<status status="FAIL" starttime="20231206 12:32:48.623" endtime="20231206 12:32:48.797"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Login To Amazon">Login To Amazon</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
